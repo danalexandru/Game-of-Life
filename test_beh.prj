@@ -1,0 +1,5 @@
+verilog work "world.v"
+verilog work "automaton.v"
+verilog work "top.v"
+verilog work "test.v"
+verilog work "D:/Programs/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

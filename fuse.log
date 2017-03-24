@@ -1,0 +1,23 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/test_isim_beh.exe" -prj "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/test_beh.prj" "work.test" "work.glbl" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/world.v" into library work
+Analyzing Verilog file "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/automaton.v" into library work
+Analyzing Verilog file "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/top.v" into library work
+Analyzing Verilog file "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/test.v" into library work
+Analyzing Verilog file "D:/Programs/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module automaton
+Compiling module world
+Compiling module top
+Compiling module test
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/test_isim_beh.exe
+Fuse Memory Usage: 29580 KB
+Fuse CPU Usage: 453 ms

@@ -1,0 +1,5 @@
+set -tmpdir "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/xst/projnav.tmp"
+set -xsthdpdir "D:/Documents/School/poli/anul III/Semestrul I/AC/Tema/Tema2/skel 3/skel/xst"
+elaborate
+-ifn automaton.prj
+-ifmt mixed

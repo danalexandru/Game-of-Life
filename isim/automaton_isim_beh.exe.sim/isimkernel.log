@@ -1,0 +1,29 @@
+Command line:
+   automaton_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49964
+
+Sun Nov 27 09:25:29 2016
+
+
+ Elaboration Time: 0.21875 sec
+
+ Current Memory Usage: 1344.16 Meg
+
+ Total Signals          : 16
+ Total Nets             : 62
+ Total Signal Drivers   : 10
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 33
+ Total Scalar Nets and Variables : 431
+Total Line Count : 128
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 1344.16 Meg
+
+Sun Nov 27 09:25:33 2016
+
